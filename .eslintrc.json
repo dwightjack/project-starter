@@ -4,10 +4,6 @@
   "env": {
     "node": true
   },
-  "plugins": ["node"],
-  "parserOptions": {
-    "ecmaVersion": 2018
-  },
   "rules": {
     "no-console": 0,
     "node/no-unpublished-require": 0
