@@ -1,15 +1,5 @@
 {
-  "css.validate": false,
-  "less.validate": false,
-  "scss.validate": false,
-  "stylelint.autoFixOnSave": true,
   "eslint.autoFixOnSave": true,
-  "[scss]": {
-    "editor.formatOnSave": false
-  },
-  "[css]": {
-    "editor.formatOnSave": false
-  },
   "[js]": {
     "editor.formatOnSave": false
   },
